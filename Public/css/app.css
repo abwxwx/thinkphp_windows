@@ -1,0 +1,19 @@
+
+body{
+    background-color:#ececec;
+;
+}
+
+form{
+    padding:15px 5px 20px 5px;
+}
+
+img{
+    padding:5px 10px 20px 5px;
+    width:100%;
+}
+
+#signinfo h3{
+    padding-top: 30%;
+    line-height:50px;
+}
